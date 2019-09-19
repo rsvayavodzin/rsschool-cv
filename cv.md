@@ -13,7 +13,7 @@ PHP, MYSQL, JavaScript, CSS, HTML
 RabbitMQ, ZF, React, Keycloak, Docker
  
 ###CODE:
-on request
+on request.
 
 ###EXPERIENCE:
 Itictory  LTD - 2017, Godel technologies  LTD - current
